@@ -30,7 +30,7 @@ Welcome to the Berserk Manga Reader, your desktop application for reading the ep
 </div>
 
 <div style="display: flex; align-items:center; gap: 1rem">
-    <img src="https://reactjs.org/logo-180x180.png " width="30"> 
+    <img src="https://legacy.reactjs.org/logo-180x180.png " width="30"> 
     <span>React: Building the user interface.</span>
 </div>
 
